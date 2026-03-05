@@ -27,3 +27,12 @@ a {
 a:hover {
   text-decoration: underline;
 }
+
+img {
+
+  width: 650px;
+  height: 400px;
+
+  margin-bottom: 20px;
+
+}
