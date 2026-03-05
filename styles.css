@@ -6,7 +6,7 @@ body {
 }
 
 .light-page a {
-  color: black; /* FOR BRIGHT COLORED BACKGROUNDS, MAKE TEXT BLACK */
+  color: black; /* CLASS FOR BRIGHT COLORED BACKGROUNDS, MAKE TEXT BLACK */
 }
 .light-page h1 {
   color: black;
