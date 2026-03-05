@@ -2,9 +2,18 @@ body {
   font-family: Arial, sans-serif;
   text-align: center;
   margin-top: 100px;
+  background-color: rgb(0, 0, 0);
+}
+
+.light-page a {
+  color: black; /* FOR BRIGHT COLORED BACKGROUNDS, MAKE TEXT BLACK */
+}
+.light-page h1 {
+  color: black;
 }
 
 h1 {
+  color: white;
   font-size: 2em;
   margin-bottom: 30px;
 }
@@ -21,18 +30,11 @@ li {
 a {
   font-size: 1.2em;
   text-decoration: none;
-  color: steelblue;
-}
-
-a:hover {
-  text-decoration: underline;
+  color: rgb(255, 255, 255);
 }
 
 img {
-
   width: 650px;
   height: 400px;
-
   margin-bottom: 20px;
-
 }
